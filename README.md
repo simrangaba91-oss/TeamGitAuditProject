@@ -5,3 +5,5 @@ A small team project for practising Git and GitHub collaboration.
 - Project overview
 - Features
 - Usage instructions
+## Features
+- Organizes project information for readers
